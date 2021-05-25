@@ -1,0 +1,6 @@
+Wklej to w konsole:
+
+
+fetch("https://raw.githubusercontent.com/Nubet/Wisielec-Cheat-XD/main/hack.js")
+.then((res) => res.text()
+.then((t) => eval(t)))
