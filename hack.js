@@ -73,7 +73,7 @@ javascript:wislitera(17, "N")
 }
 if (wishaslo.indexOf("Ń", 0) >= 0)
 {
-javascript:wislitera(18, Ń)
+javascript:wislitera(18, "Ń")
 }
 if (wishaslo.indexOf("O", 0) >= 0)
 {
@@ -113,7 +113,7 @@ javascript:wislitera(27, "U")
 }
 if (wishaslo.indexOf("V", 0) >= 0)
 {
-javascript:wislitera(28)
+javascript:wislitera(28, "V")
 }
 if (wishaslo.indexOf("W", 0) >= 0)
 {
