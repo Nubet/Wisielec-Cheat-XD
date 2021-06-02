@@ -15,13 +15,13 @@ btnAutoZaznaczenie.onclick = function() { VoidZaznacz()};
         
 function  VoidPodswietl() 
 {
-    fetch("https://raw.githubusercontent.com/Nubet/Wisielec-Cheat-XD/main/hackPODSWIETLANIE.js")
-.then((res) => res.text()
-.then((t) => eval(t)))
+ fetch("https://raw.githubusercontent.com/Nubet/Wisielec-Cheat-XD/main/hackPODSWIETLANIE.js")
+ .then((res) => res.text()
+ .then((t) => eval(t)))
 }
 function   VoidZaznacz() 
 {
-    fetch("https://raw.githubusercontent.com/Nubet/Wisielec-Cheat-XD/main/hack.js")
-    .then((res) => res.text()
-    .then((t) => eval(t)))
+ fetch("https://raw.githubusercontent.com/Nubet/Wisielec-Cheat-XD/main/hack.js")
+ .then((res) => res.text()
+ .then((t) => eval(t)))
 }
