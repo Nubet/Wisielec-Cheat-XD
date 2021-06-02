@@ -1,13 +1,2 @@
 Strona z wisielcem: https://wisielec.imasz.net/wisielec.php
-Wklej to w konsole jesli chcesz automatyczne zaznaczenie poprawnych liter:
-
-
-fetch("https://raw.githubusercontent.com/Nubet/Wisielec-Cheat-XD/main/hack.js")
-.then((res) => res.text()
-.then((t) => eval(t)))
-
-Wklej to w konsole jesli chcesz podswietlanie poprawnych liter:
-
-fetch("https://raw.githubusercontent.com/Nubet/Wisielec-Cheat-XD/main/hackPODSWIETLANIE.js")
-.then((res) => res.text()
-.then((t) => eval(t)))
+Wklej to w konsole: https://raw.githubusercontent.com/Nubet/Wisielec-Cheat-XD/main/Skrypt.js
