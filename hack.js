@@ -139,4 +139,15 @@ if (wishaslo.indexOf("Ż", 0) >= 0)
 {
 javascript:wislitera(34, "Ż")
 }
+/* const tab = ["A", "Ą", "B", "C", "Ć", "D", "E", "Ę", "F", "G", "H", "I", "J", "K", "L", "Ł", "M", "N", "Ń", "O", "Ó", "P", "Q", "R", "S", "T", "U", "V", "W", "X", "Y", "Z", "Ź", "Ż"];
+for (var i = 0; i <= 34; i++) 
+{
+console.log(i);
+console.log(tab[i]);
+if (wishaslo.indexOf(tab[i], 0) >= 0)
+{
+javascript:wislitera(i, tab[i])
 
+}
+} */
+// poprawie to jutro i wprowadze
